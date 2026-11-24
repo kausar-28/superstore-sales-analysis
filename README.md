@@ -4,7 +4,7 @@ Exploratory data analysis and two small classification experiments on retail sal
 
 ## Dataset
 
-`train.csv` contains 9,800 order lines with 18 columns, including order and ship dates, ship mode, customer segment, city, state, region, product category, sub-category and sales amount. It is the public Superstore sales dataset; add the source link here (for example the Kaggle page you downloaded it from).
+Dataset: "Superstore Sales Dataset" (train.csv, 9,800 rows, 18 columns) by Rohit Sahoo on Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting. Used here for educational purposes.
 
 ## What the notebook does
 
